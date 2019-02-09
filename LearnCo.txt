@@ -1,0 +1,6 @@
+source activate learn-env
+conda info --envs
+
+
+python -m pytest -x
+python -m pytest
