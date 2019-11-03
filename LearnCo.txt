@@ -4,3 +4,6 @@ conda info --envs
 
 python -m pytest -x
 python -m pytest
+
+source ~/anaconda3/bin/activate root
+anaconda-navigator
